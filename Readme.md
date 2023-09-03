@@ -10,3 +10,5 @@ In this challenge I extracted from `bigquery-public-data.nhtsa_traffic_fatalitie
 **Next steps**
 - None
  
+**Awknoledgements**
+I awknoledge to Dr. Dario Lopez for the great discussion about the project
