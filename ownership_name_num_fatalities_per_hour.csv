@@ -1,0 +1,11 @@
+ownership_name,num_accidents,hour
+State Highway Agency,893,17
+Not Reported,415,21
+County Highway Agency,229,18
+City or Municipal Highway Agency,212,20
+Unknown,77,21
+Town or Township Highway Agency,72,17
+Other Local Agency,51,20
+Trafficway Not in State Inventory,16,18
+State Toll Road,6,3
+Other Federal Agency,5,8

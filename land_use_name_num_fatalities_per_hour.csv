@@ -1,0 +1,6 @@
+land_use_name,num_accidents,hour
+Urban,1072,20
+Rural,975,17
+Trafficway Not in State Inventory,16,18
+Unknown,4,0
+Not Reported,2,2
