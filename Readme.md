@@ -1,4 +1,4 @@
-# Traffic_2015_Challenge
+# Traffic 2015 Challenge
 
 In this challenge I extracted from `bigquery-public-data.nhtsa_traffic_fatalities` database the table of accidents for 2015. This data is public and comes from Bigquery by using GCloud client. My steps were:
 
