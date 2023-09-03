@@ -8,5 +8,5 @@ In this challenge I extracted from `bigquery-public-data.nhtsa_traffic_fatalitie
 4. Creating a new query for extrancting the ratio of accidents and drunken driver percentage and select the 10 biggest percentages.
 -----------
 **Next steps**
-- Creating the ``csv`` files
+- None
  
